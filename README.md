@@ -7,3 +7,6 @@ Please view our code in order from:
 3. Data Resampling and Splitting
 4. Decision Tree Classification
 5. Logistic Regression
+
+## Contributors
+*@
