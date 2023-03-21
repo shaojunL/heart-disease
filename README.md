@@ -23,6 +23,7 @@ Please view our code in order from:
 
 ## Conclusion
 *  the most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
+*  MaxHR had the highest accuracy 
 
 ## What did we learn from this project?
 * Handling imbalanced datasets with upsampling
