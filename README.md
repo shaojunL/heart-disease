@@ -22,6 +22,7 @@ Please view our code in order from:
 * Logistic Regression
 
 ## Conclusion
+*  the most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
 
 ## What did we learn from this project?
 
