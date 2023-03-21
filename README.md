@@ -9,4 +9,20 @@ Please view our code in order from:
 5. Logistic Regression
 
 ## Contributors
-*@
+* @matthewtan01
+* @eezzatt
+* @shaojunL
+
+## Problem Definition
+* Which factor is most useful when predicting the possibility of Heart Disease?
+* Which model is best to predict the possibility of Heart Disease?
+
+## Models Used
+* Decision Tree Classification
+* Logistic Regression
+
+## Conclusion
+
+## What did we learn from this project?
+
+## References
