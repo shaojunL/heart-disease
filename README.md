@@ -25,6 +25,9 @@ Please view our code in order from:
 *  the most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
 
 ## What did we learn from this project?
+* handling imbalanced datasets with upsampling
+* Logistic Regression
+* Collaborating through Github
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
