@@ -23,10 +23,10 @@ Please view our code in order from:
 
 ## Conclusion
 *  the most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
-*  Reasons:
-*  *From our boxplot, cholestrol had the most significant difference
-** MaxHR appeared highest in Decision Tree
-**  MaxHR had the highest accuracy as well as magnitude for its coefficient for Logistic Regression
+Reasons:
+*  From our boxplot, cholestrol had the most significant difference
+*  MaxHR appeared highest in Decision Tree
+*  MaxHR had the highest accuracy as well as magnitude for its coefficient for Logistic Regression
 
 ## What did we learn from this project?
 * Handling imbalanced datasets with upsampling
