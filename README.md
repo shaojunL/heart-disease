@@ -1,7 +1,7 @@
 # heart-disease
 ## About
 This is our mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Predicting Heart Disease. [(Dataset)](heart.csv). 
-Please view our code in order from:
+Please view our [(code)]() in order from:
 1. Data Extraction
 2. Data Visualization
 3. Data Resampling and Splitting
