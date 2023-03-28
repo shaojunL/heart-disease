@@ -9,9 +9,9 @@ Please view our code in order from:
 5. Logistic Regression
 
 ## Contributors
-* @matthewtan01 -
-* @eezzatt -
-* @shaojunL -
+* @matthewtan01
+* @eezzatt
+* @shaojunL
 
 ## Problem Definition
 * Which factor is most useful when predicting the possibility of Heart Disease for people above 50 years of age?
