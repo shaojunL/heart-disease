@@ -37,3 +37,4 @@ Reasons:
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
+* https://realpython.com/logistic-regression-python/
