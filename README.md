@@ -22,7 +22,7 @@ Please view our code in order from:
 * Logistic Regression
 
 ## Conclusion
-*  the most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
+*  The most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
 
 Reasons:
 *  From our boxplot, cholestrol had the most significant difference
