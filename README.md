@@ -33,7 +33,6 @@ Reasons:
 * Handling imbalanced datasets with upsampling
 * Logistic Regression
 * Collaborating through Github
-* Removing Duplicates
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
