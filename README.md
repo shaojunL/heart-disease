@@ -22,10 +22,10 @@ Please view our [code](Project_0404.ipynb) in order from:
 * Logistic Regression
 
 ## Conclusion
-*  The most important factors in predicting whether one would have Heart Disease in descending order is : MaxHR, Cholesterol, RestingBP
+*  When it comes to predicting the likelihood of someone having Heart Disease, the factors that carry the most weight in descending order are MaxHR, Cholesterol, and RestingBP.
 
 Reasons:
-*  From our boxplot, cholestrol had the most significant difference
+*  From our boxplot, MaxHR had the most significant difference
 *  MaxHR appeared highest in Decision Tree
 *  MaxHR had the highest accuracy as well as magnitude for its coefficient for Logistic Regression
 
