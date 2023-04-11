@@ -5,8 +5,9 @@ Please view our [code](Project_0404.ipynb) in order from:
 1. Data Extraction
 2. Data Visualization
 3. Data Resampling and Splitting
-4. Decision Tree Classification
-5. Logistic Regression
+4. Decision Tree Classification (without resampling)
+5. Decision Tree Classification (with resampling)
+6. Logistic Regression
 
 ## Contributors
 * @matthewtan01
