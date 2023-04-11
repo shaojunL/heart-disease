@@ -35,7 +35,7 @@ Reasons:
 ## What did we learn from this project?
 * Handling imbalanced datasets with resampling
 * Logistic Regression
-* Plotting Histogram with respect to Categorial Values
+* Plotting the levels of a Categorical variable on a histogram
 * Collaborating through Github
 
 
