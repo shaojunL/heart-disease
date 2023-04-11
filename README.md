@@ -23,7 +23,6 @@ Please view our [code](Project_0404.ipynb) in order from:
 * Logistic Regression
 
 ## Conclusion
-*  Cholesterol data has the highest spread while resting blood pressure has the lowest spread
 *  Resampling imbalanced data did not improve decision tree model by a significant difference
 *  When it comes to predicting the likelihood of someone having Heart Disease, the factors that carry the most weight in descending order are MaxHR, Cholesterol, and RestingBP
 
