@@ -14,7 +14,7 @@ Please view our [code](Project_0404.ipynb) in order from:
 * @shaojunL
 
 ## Problem Definition
-* Which factor is most useful when predicting the possibility of Heart Disease for people above 50 years of age?
+* Which easily measured factor is most useful when predicting the possibility of Heart Disease for people above 50 years of age?
 * Which model is best to predict the possibility of Heart Disease?
 
 ## Models Used
@@ -30,7 +30,7 @@ Reasons:
 *  MaxHR had the highest accuracy as well as magnitude for its coefficient for Logistic Regression
 
 ## What did we learn from this project?
-* Handling imbalanced datasets with upsampling
+* Handling imbalanced datasets with resampling
 * Logistic Regression
 * Plotting Histogram with respect to Categorial Values
 * Collaborating through Github
