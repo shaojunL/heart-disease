@@ -18,7 +18,7 @@ Please view our [code](Project_0404.ipynb) in order from:
 * Which model is best to predict the possibility of Heart Disease?
 
 ## Models Used
-* Decision Tree Classification
+* Decision Tree Classification (with and without resampling)
 * Logistic Regression
 
 ## Conclusion
