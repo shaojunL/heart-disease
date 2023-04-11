@@ -27,8 +27,8 @@ Please view our [code](Project_0404.ipynb) in order from:
 *  When it comes to predicting the likelihood of someone having Heart Disease, the factors that carry the most weight in descending order are MaxHR, Cholesterol, and RestingBP
 
 Reasons:
-*  The classification accuracy of the decision tree with imbalanced data and balanced data is around the same. 
-*  From our boxplot, MaxHR against the levels of HeartDisease had the most significant difference
+*  The classification accuracy of the decision tree with imbalanced data and balanced data is around the same
+*  From our boxplots of the 3 variables against the levels of HeartDisease, MaxHR had the most significance difference
 *  MaxHR appeared highest up in the Decision Tree
 *  MaxHR had the highest accuracy as well as magnitude for its coefficient for Logistic Regression
 
