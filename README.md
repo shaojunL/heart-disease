@@ -41,4 +41,5 @@ Reasons:
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
+* https://www.kaggle.com/code/rafjaa/resampling-strategies-for-imbalanced-datasets/notebook
 * https://realpython.com/logistic-regression-python/
