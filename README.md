@@ -32,8 +32,9 @@ Reasons:
 ## What did we learn from this project?
 * Handling imbalanced datasets with upsampling
 * Logistic Regression
-* Collaborating through Github
 * Plotting Histogram with respect to Categorial Values
+* Collaborating through Github
+
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 
