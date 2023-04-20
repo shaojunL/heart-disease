@@ -16,6 +16,7 @@ Please view our [code](Project_0404.ipynb) in order from:
 
 ## Problem Definition
 * Which easily measured factor is most useful when predicting the possibility of Heart Disease for people above 50 years of age?
+  * In this case, the easily measured factors are Cholesterol, Resting Blood Pressure and Max Heart Rate
 * Which model is best to predict the possibility of Heart Disease?
 
 ## Models Used
