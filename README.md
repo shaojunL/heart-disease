@@ -24,10 +24,12 @@ Please view our [code](Project_0404.ipynb) in order from:
 * Logistic Regression
 
 ## Conclusion
+*  It is actually quite difficult to predict Heart Disease using the factors we chose
 *  Resampling imbalanced data did not improve decision tree model by a significant difference
 *  When it comes to predicting the likelihood of someone having Heart Disease, the factors that carry the most weight in descending order are MaxHR, Cholesterol, and RestingBP
 
 Reasons:
+*  The factors we chose do not affect the probability of getting Heart Disease in a substantial manner
 *  The classification accuracy of the decision tree with imbalanced data and balanced data is around the same
 *  From our boxplots of the 3 variables against the levels of HeartDisease, MaxHR had the most significance difference
 *  MaxHR appeared highest up in the Decision Tree
